@@ -1,0 +1,17 @@
+com/example/simpletodo/EditActivity.java
+ com.example.simpletodo.EditActivity
+ com.example.simpletodo.EditActivity$1
+com/example/simpletodo/BuildConfig.java
+ com.example.simpletodo.BuildConfig
+com/example/simpletodo/ItemsAdapter.java
+ com.example.simpletodo.ItemsAdapter
+ com.example.simpletodo.ItemsAdapter$OnClickListener
+ com.example.simpletodo.ItemsAdapter$OnLongClickListener
+ com.example.simpletodo.ItemsAdapter$ViewHolder
+ com.example.simpletodo.ItemsAdapter$ViewHolder$1
+ com.example.simpletodo.ItemsAdapter$ViewHolder$2
+com/example/simpletodo/MainActivity.java
+ com.example.simpletodo.MainActivity
+ com.example.simpletodo.MainActivity$1
+ com.example.simpletodo.MainActivity$2
+ com.example.simpletodo.MainActivity$3
